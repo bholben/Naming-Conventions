@@ -2,7 +2,7 @@ Naming Conventions
 ==================
 
 ##Lingo & Usage
-Naming conventions commonly used in programming and notes about how I use them
+This is a brief summary of programming naming conventions and notes about how I use them.
 
 ###snake_case
 * lower_snake_case -- filenames, Python variable / function names
