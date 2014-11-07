@@ -15,16 +15,21 @@ Naming conventions commonly used in programming and notes about how I use them
  
 ###spinal-case
 *aka kebab-case, lisp-case, caterpillar-case*  
-* lower-spinal-case -- Javascript filenames, CSS identifiers  
+* lower-spinal-case -- Javascript filenames, CSS class / id names  
 * Train-Case  
 
 **Default:** When someone says spinal case, they are commonly referring to lower spinal case.
 
 ###camelCase
-* lowerCamelCase -- Javascript variable names  
-* UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript object names
+* lowerCamelCase -- Javascript variable / function / attribute names  
+* UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript constructor funtion names
 
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
+
+###compactcase
+I don't know of a commonly used word to describe this word compression technique.  
+* lowercompactcase  
+* UPPERCOMPACTCASE -- Javascript global variables
 
 ##Filenaming
 
