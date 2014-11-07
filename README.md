@@ -37,7 +37,7 @@ I don't know of a commonly used word to describe this word compression technique
 **Filetypes:** _*.py, *.yaml, *.yml_  
 **Convention:** snake_case.py  
 
-###Web development
+###Web development, JSON
 **Filetypes:** _*.html, *.css, *.js, *.json, *.jade, *.scss, *.sass, *.less, *.styl_  
 **Convention:** file-name.plugin-name-ver.sion.min.ext  
 * filename.ext is the core, all other elements optional
