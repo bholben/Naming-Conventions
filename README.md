@@ -17,11 +17,13 @@ Naming conventions commonly used in programming and notes about how I use them
 *aka kebab-case, lisp-case, caterpillar-case*  
 * lower-spinal-case -- Javascript filenames, CSS identifiers  
 * Train-Case  
+
 **Default:** When someone says spinal case, they are commonly referring to lower spinal case.
 
 ###camelCase
 * lowerCamelCase -- Javascript variable names  
-* UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript object names  
+* UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript object names
+
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
 
 ##Filenaming
@@ -31,7 +33,7 @@ Naming conventions commonly used in programming and notes about how I use them
 **Convention:** snake_case.py  
 
 ###Web development
-**Filetypes:** **.html, *.css, *.js, *.json, *.jade, *.scss, *.sass, *.less, *.styl*  
+**Filetypes:** _*.html, *.css, *.js, *.json, *.jade, *.scss, *.sass, *.less, *.styl_  
 **Convention:** file-name.plugin-name-ver.sion.min.ext  
 * filename.ext is the core, all other elements optional
 * All lower case - no camelCase (universal compatibility)
