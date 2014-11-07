@@ -7,8 +7,8 @@ A list of naming conventions commonly used in programming and notes about how I 
 * lower_snake_case -- filenames, Python variable / function names
 * Upper_Snake_Case
 * SCREAMING_SNAKE_CASE -- Python constant names
-* _private_snake_case -- Python private variable /function names
-* \_\_dunder\_\_ (*aka \__double_underscore\__*) -- Python reserved names
+* _private_snake_case -- Python private variable / function names
+* \__dunder\__ (*aka \__double_underscore\__*) -- Python reserved names
 
 **Default:** Universally understood to be lower case.
  
