@@ -1,10 +1,10 @@
 Naming Conventions
 ==================
 
-##Lingo & Usage
+## Lingo & Usage
 This is a brief summary of programming naming conventions and notes about how I use them.
 
-###snake_case
+### snake_case
 * lower_snake_case -- filenames, Python variable / function names
 * Upper_Snake_Case
 * SCREAMING_SNAKE_CASE -- Python constant names
@@ -13,31 +13,31 @@ This is a brief summary of programming naming conventions and notes about how I 
 
 **Default:** When someone says snake case, they are commonly referring to lower snake case.
  
-###spinal-case
+### spinal-case
 *aka kebab-case, lisp-case, caterpillar-case*  
 * lower-spinal-case -- Javascript filenames, CSS class / id names  
 * Train-Case  
 
 **Default:** When someone says spinal case, they are commonly referring to lower spinal case.
 
-###camelCase
+### camelCase
 * lowerCamelCase -- Javascript variable / function / attribute names  
 * UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript constructor funtion names
 
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
 
-###compactcase
+### compactcase
 I don't know of a commonly used word to describe this word compression technique.  
 * lowercompactcase  
 * UPPERCOMPACTCASE -- Javascript global variables
 
-##Filenaming
+## Filenaming
 
-###Python, YAML
+### Python, YAML
 **Filetypes:** _*.py, *.yaml, *.yml_  
 **Convention:** snake_case.py  
 
-###Web development, JSON
+### Web development, JSON
 **Filetypes:** _*.html, *.css, *.js, *.json, *.jade, *.scss, *.sass, *.less, *.styl_  
 **Convention:** file-name.plugin-name-ver.sion.min.ext  
 * filename.ext is the core, all other elements optional
