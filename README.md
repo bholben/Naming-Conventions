@@ -22,7 +22,7 @@ This is a brief summary of programming naming conventions and notes about how I 
 
 ### camelCase
 * lowerCamelCase -- Javascript variable / function / attribute names  
-* UpperCamelCase (aka StudlyCaps) -- Python class / exception names, Javascript constructor funtion names
+* UpperCamelCase (aka Pascale Case, or StudlyCaps) -- Python class / exception names, Javascript constructor funtion names
 
 **Default:** When someone says camel case, they are commonly referring to lower camel case.
 
